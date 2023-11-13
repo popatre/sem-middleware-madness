@@ -28,7 +28,7 @@ A test has been written to check your implementation
 
 ## Task 4
 
-As well as the `authenticateUser` middleware you just created, add some middleware that will log the url of the request.
+As well as the `authenticateUser` middleware you just created, add some middleware that will `console.info` the **url** of the request.
 
 The middleware should only be applied to the `POST:"/api/login"` route. The urlLogger.js file has been started for you.
 
