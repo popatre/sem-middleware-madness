@@ -58,7 +58,7 @@ Keep your logger in place to avoid your tests failing.
 
 A public folder has been provided for you which currently has some files. Add some Express middleware that will enable you to serve these files as static files.
 
-Once implemented, you should be able to start the server and the following endpoints in your browser to see the static files:
+Once implemented, you should be able to start the server and go to the following endpoints in your browser to see the static files:
 
     http://localhost:9090/other/file1.txt
     http://localhost:9090/other/file2.txt
